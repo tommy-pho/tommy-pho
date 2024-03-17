@@ -29,8 +29,8 @@ I'm Tommy, a Computer Science student at Cal Poly San Luis Obispo. This is a por
   </a>
 </div>
 
-## Stay in Touch
+## 🚀 Stay in Touch
 
-🚀 I'm always open to collaborate on cool and interesting projects!
+I'm always open to collaborate on cool and interesting projects!
 
 Thank you for visiting, and I look forward to connecting with you!
