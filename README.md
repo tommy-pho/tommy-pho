@@ -18,7 +18,6 @@ I'm Tommy, a Computer Science student at Cal Poly San Luis Obispo. This is a por
   - **🎨 Portfolio** - https://tommy-pho.github.io
   - **📄 Resume** - https://tommy-pho.github.io/resume
   - **✉️ Email** - ttpho@calpoly.edu
-  - 🚀 I'm always open to collaborate on cool and interesting projects  
 
 ## 💻 Tech Stack
 <div style="display: flex; flex-wrap: wrap;">
@@ -29,3 +28,9 @@ I'm Tommy, a Computer Science student at Cal Poly San Luis Obispo. This is a por
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-pho&layout=compact&langs_count=15&border_color=fff&border_radius=5&bg_color=222222&title_color=ebedf0&text_color=D8C787&hide=nesC,Tcl" />
   </a>
 </div>
+
+## Stay in Touch
+
+🚀 I'm always open to collaborate on cool and interesting projects!
+
+Thank you for visiting, and I look forward to connecting with you!
