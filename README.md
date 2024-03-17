@@ -29,6 +29,6 @@ I'm Tommy, a Computer Science student at Cal Poly San Luis Obispo. This is my po
   </a>
 </div>
 
-## 🚀 Let's Connect!
+## 🚀 Let's Connect
 
 I'm always open to collaborate on cool and interesting projects!
