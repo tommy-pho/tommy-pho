@@ -7,6 +7,12 @@
 
 I'm Tommy, a Computer Science student at Cal Poly San Luis Obispo. This is a portfolio and archive of my journey to explore and conquer the inner workings of computers, from the subatomic particles in transistors to the cool stuff we do with processors, operating systems, and web browsers.
 
+## About Me
+
+- 🎓 Currently pursuing a degree in Computer Science
+- 💻 Passionate about technology, coding, and problem-solving
+- 🌱 Always learning and exploring new concepts in computer science
+
 ## 📬 Connect with Me
   - **💼 LinkedIn** - https://www.linkedin.com/in/tommy-pho/
   - **🎨 Portfolio** - https://tommy-pho.github.io
