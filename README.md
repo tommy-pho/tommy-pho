@@ -15,8 +15,8 @@ I'm Tommy, a Computer Science student at Cal Poly San Luis Obispo. This is my po
 
 ## 📬 Get in Touch
   - **💼 LinkedIn** - https://www.linkedin.com/in/tommy-pho/
-  - **🎨 Portfolio** - https://tommy-pho.github.io
-  - **📄 Resume** - https://tommy-pho.github.io/resume
+  - **🎨 Portfolio** - https://www.tommypho.com
+  - **📄 Resume** - https://www.tommypho.com/resume
   - **✉️ Email** - ttpho@calpoly.edu
 
 ## 💻 Tech Stack
